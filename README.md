@@ -45,11 +45,10 @@
 
 ---
 
-## 🐍 Actividad
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/risther-67/risther-67/output/snake.svg" alt="snake animation" />
-</p>
+## 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2  lkPTc5MGI3NjExOTZwc2t5M2NhOXhma2d3cDZhcjM2MmYyZGV5NXcwNm92NnYyM2ltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EUif7spXv3PdjW/giphy.gif"  />
+</div>
 
 ---
 
