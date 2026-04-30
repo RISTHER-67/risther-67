@@ -1,45 +1,71 @@
-<img src="https://raw.githubusercontent.com/risther-67/risther-67/output/snake.svg" alt="Snake animation" />
+<!-- HEADER -->
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Rister%20Emilio&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h2 align="center">👋 Hola, soy Rister<br><br>🚀 Ingeniero enfocado en Automatización, IA y Sistemas Multi-Agente<br>🧠 Construyo soluciones que optimizan procesos reales<br>⚡ Enfocado en eficiencia, escalabilidad y lógica aplicada</h2>
+<h1 align="center">🚀 Automation & AI Systems Engineer</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Automatización+de+Procesos;Sistemas+Multi-Agente;Arquitectura+con+IA;Soluciones+Escalables" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+---
 
-###
+## 🧠 Sobre mí
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2  lkPTc5MGI3NjExOTZwc2t5M2NhOXhma2d3cDZhcjM2MmYyZGV5NXcwNm92NnYyM2ltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EUif7spXv3PdjW/giphy.gif"  />
-</div>
+💡 Diseño sistemas inteligentes que automatizan procesos reales
+⚙️ Especializado en workflows, integraciones y lógica de negocio
+🧩 Construyo soluciones escalables con enfoque en eficiencia
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<h2 align="left">🧠 Sobre mí<br><br>Me especializo en diseñar sistemas inteligentes que automatizan flujos de trabajo complejos.<br>Trabajo con enfoques modernos como:<br><br>🤖 Sistemas Multi-Agente<br>⚙️ Automatización de procesos<br>🧩 Arquitectura de soluciones con IA<br>🔗 Integración de APIs y workflows<br><br>Mi enfoque no es solo programar, sino resolver problemas reales con lógica y eficiencia.</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,laravel,html,tailwind,nodejs,docker,git" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+## 📊 Estadísticas
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=risther-67&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=risther-67&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Proyectos
+
+🔹 Automatización de pedidos desde chat hasta entrega
+🔹 Sistemas multi-agente para toma de decisiones
+🔹 Bots inteligentes para negocio
+
+---
+
+## 🐍 Actividad
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/risther-67/risther-67/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+## ⚡ Filosofía
+
+> "No construyo código, construyo sistemas que resuelven problemas reales."
